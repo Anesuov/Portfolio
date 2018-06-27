@@ -8,3 +8,6 @@ img {
 h1{color: grey ;}
 h2{color: grey;}
 h3{color: grey;}
+.rcorners { 
+border-radius: 25px;
+}
